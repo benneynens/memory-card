@@ -15,4 +15,5 @@
 functions
  - random string generator
 
- test
+OTHER
+ figure out why gitignore is not ignoring individual files
