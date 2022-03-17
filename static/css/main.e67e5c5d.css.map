@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e67e5c5d.css","mappings":"AAAA,MACE,qBAAuB,CACvB,YAAa,CACb,WACF","sources":["index.css"],"sourcesContent":[".card {\n  border: 1px solid black;\n  height: 100px;\n  width: 100px;\n}"],"names":[],"sourceRoot":""}
