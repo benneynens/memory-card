@@ -1,0 +1,16 @@
+- parent
+  -const
+    - 8 different kinds of fruit
+  -state...
+    - current score
+    - highest score
+  -components
+   - scores
+
+  - cards (win count)
+   - single card
+     - been clicked
+- card
+
+functions
+ - random string generator
